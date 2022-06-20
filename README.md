@@ -30,6 +30,6 @@ In this project, copy the .env.example file to a file named .env, and then edit 
 yarn hardhat deploy --network rinkeby 
 ```
 
-# Licence
+# License
 
 Distributed under the MIT License. See LICENSE.txt for more information.
